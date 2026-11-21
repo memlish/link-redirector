@@ -1,0 +1,2 @@
+tornado==6.6.0
+pytest==9.2.0
